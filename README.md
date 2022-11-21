@@ -11,7 +11,7 @@
 ## 如何开始
 挑选感兴趣的部分阅读
 - [编程语言](./programming-languages/README.md)
-- [回测框架](./programming-languages/README.md)
+- [回测框架](./backtesting/README.md)
 
 ## 贡献
 PR: 贡献你的知识储备
