@@ -13,7 +13,7 @@
 - Recruitment
 招聘用项目
 - Annual
-周年项目，有两个组织，分别在3月和12月定期举办
+周年项目，有两个组织，分别在-和-月定期举办
 - Limited Participation
 私有项目，例如用于考试
 
@@ -29,3 +29,26 @@
 - cash
 - kudos 无实质奖励
 - swag(Stuff We All Get) 周边
+
+
+## Workflow
+- Question or problem definition.
+问题定义（输入、输出）
+- Acquire training and testing data.
+获取数据
+- Analyze data definition and structure.
+分析数据定义和结构
+- Wrangle, prepare, cleanse the data.
+数据整理、准备、清洗
+    - Converting 转换为数字
+    - Completing 填充缺失
+    - Correcting 校正异常数据
+    - Creating 创造新特征
+- Analyze, visualize, identify patterns, and explore the data.
+分析、探索数据
+- Model, predict and solve the problem.
+建模解决问题
+- Visualize, report, and present the problem solving steps and final solution.
+用一些手段优化问题解决过程
+- Supply or submit the results.
+提交
