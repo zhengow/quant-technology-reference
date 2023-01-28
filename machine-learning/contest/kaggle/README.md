@@ -36,7 +36,7 @@
 问题定义（输入、输出）
 - Acquire training and testing data.
 获取数据
-- Analyze data definition and structure.
+- Analyze data definition and structure. Visualize, report data
 分析数据定义和结构
 - Wrangle, prepare, cleanse the data.
 数据整理、准备、清洗
@@ -49,8 +49,6 @@
     - Creating 创造新特征
 - Model, predict and solve the problem.
 建模解决问题
-- Visualize, report, and present the problem solving steps and final solution.
-用一些手段优化问题解决过程
 - Supply or submit the results.
 提交
 
